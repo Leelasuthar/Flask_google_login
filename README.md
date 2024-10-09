@@ -81,13 +81,4 @@ Once you've configured your application:
 
 ---
 
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-
-
 Happy coding! 😊
